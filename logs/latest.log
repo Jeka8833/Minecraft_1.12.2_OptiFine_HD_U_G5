@@ -1,0 +1,158 @@
+[12:34:23] [main/INFO]: Logging in with username & password
+[12:34:24] [main/INFO]: Setting user: Jeka8833
+[12:34:25] [main/INFO]: [OptiFine] *** Reflector Forge ***
+[12:34:25] [main/INFO]: [OptiFine] *** Reflector Vanilla ***
+[12:34:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyConflictContext
+[12:34:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyModifier
+[12:34:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event$Result
+[12:34:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[12:34:25] [main/INFO]: LWJGL Version: 2.9.4
+[12:34:25] [main/INFO]: [OptiFine] 
+[12:34:25] [main/INFO]: [OptiFine] OptiFine_1.12.2_HD_U_G5
+[12:34:25] [main/INFO]: [OptiFine] Build: null
+[12:34:25] [main/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[12:34:25] [main/INFO]: [OptiFine] Java: 1.8.0_292, AdoptOpenJDK
+[12:34:25] [main/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), AdoptOpenJDK
+[12:34:25] [main/INFO]: [OptiFine] LWJGL: 2.9.4
+[12:34:25] [main/INFO]: [OptiFine] OpenGL: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2, version 4.6.0 NVIDIA 471.41, NVIDIA Corporation
+[12:34:25] [main/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[12:34:25] [main/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[12:34:25] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[12:34:25] [main/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 471.41
+[12:34:25] [main/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[12:34:25] [main/INFO]: [Shaders] Renderer: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2
+[12:34:25] [main/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[12:34:25] [main/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[12:34:25] [main/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[12:34:25] [main/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[12:34:25] [main/INFO]: [Shaders] Load shaders configuration.
+[12:34:25] [main/INFO]: [Shaders] Shaders can not be loaded, Fast Render is enabled.
+[12:34:25] [main/INFO]: [Shaders] No shaderpack loaded.
+[12:34:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[12:34:26] [main/INFO]: Reloading ResourceManager: Default
+[12:34:26] [main/INFO]: [OptiFine] (Reflector) Class not present: optifine.OptiFineClassTransformer
+[12:34:26] [main/INFO]: [OptiFine] *** Reloading textures ***
+[12:34:26] [main/INFO]: [OptiFine] Resource packs: Default
+[12:34:26] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[12:34:26] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.Attributes
+[12:34:26] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.vertex.VertexFormatElement$EnumUsage.preDraw
+[12:34:26] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.vertex.VertexFormatElement$EnumUsage.postDraw
+[12:34:26] [VersionCheck/INFO]: [OptiFine] Version found: G5
+[12:34:26] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:34:26] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.block.model.ModelBlockDefinition.parseFromReader
+[12:34:26] [main/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.item.Item.delegate
+[12:34:26] [Thread-3/INFO]: Initializing LWJGL OpenAL
+[12:34:26] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:34:27] [Thread-3/INFO]: OpenAL initialized.
+[12:34:27] [Sound Library Loader/INFO]: Sound engine started
+[12:34:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[12:34:29] [main/INFO]: [OptiFine] Mipmap levels: 4
+[12:34:29] [main/INFO]: [OptiFine] Multitexture: false
+[12:34:29] [main/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[12:34:30] [main/INFO]: Created: 512x512 textures-atlas
+[12:34:30] [main/INFO]: [OptiFine] Animated sprites: 22
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeModContainer
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[12:34:31] [main/INFO]: Narrator library for x64 successfully loaded
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.GuiModList
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.NotificationModUpdateScreen
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkWatchEvent$UnWatch
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.relauncher.CoreModManager
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.DimensionManager
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$RenderFogEvent
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.EventBus
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.ExtendedBlockState
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.FMLClientHandler
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.FMLCommonHandler
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.ActiveRenderInfo.getCameraPosition
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.ActiveRenderInfo.updateRenderInfo
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.biome.Biome.getWaterColorMultiplier
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.biome.Biome$SpawnListEntry.newInstance
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.addDestroyEffects
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.addHitEffects
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.canCreatureSpawn
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.canRenderInLayer
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.doesSideBlockRendering
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.doesSideBlockChestOpening
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getBedDirection
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getExtendedState
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getFogColor
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getLightOpacity
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getLightValue
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getSoundType
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.hasTileEntity
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isAir
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isBed
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isBedFoot
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isSideSolid
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.block.model.IBakedModel.isAmbientOcclusion
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.state.IBlockProperties.getLightValue
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.ChunkCache.isSideSolid
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.Entity.canRiderInteract
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.entity.Entity.captureDrops
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.entity.Entity.capturedDrops
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.Entity.shouldRenderInPass
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.Entity.shouldRiderSit
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.EntityList.getClass
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.EntityList.getID
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.getDurabilityForDisplay
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.getEquipmentSlot
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.getTileEntityItemStackRenderer
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.getRGBDurabilityForDisplay
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.isShield
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.onEntitySwing
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.shouldCauseReequipAnimation
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.showDurabilityBar
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.ItemArmor.hasOverlay
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.settings.KeyBinding.setKeyConflictContext
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.settings.KeyBinding.setKeyModifierAndCode
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.settings.KeyBinding.getKeyModifier
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.potion.Potion.shouldRenderHUD
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.potion.Potion.renderHUDEffect
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.potion.PotionEffect.isCurativeItem
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.canRenderBreaking
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.getRenderBoundingBox
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.hasFastRenderer
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.shouldRenderInPass
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.World.countEntities
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.World.getPerWorldStorage
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.World.initCapabilities
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getCloudRenderer
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getSkyRenderer
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getWeatherRenderer
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getLightmapColors
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getSaveFolder
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.IExtendedBlockState
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.registries.IForgeRegistryEntry$Impl
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader$VanillaLoader
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoaderRegistry
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ScreenshotEvent
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.resource.VanillaResourceType
+[12:34:31] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[12:34:31] [main/INFO]: [OptiFine] *** Reloading custom textures ***
+[12:34:32] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[12:34:39] [main/INFO]: Stopping!
+[12:34:39] [main/INFO]: SoundSystem shutting down...
+[12:34:39] [main/WARN]: Author: Paul Lamb, www.paulscode.com
